@@ -1,0 +1,11 @@
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\obj\Debug\netcoreapp2.2\MohammedAdnanTasSol.csprojAssemblyReference.cache
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\obj\Debug\netcoreapp2.2\MohammedAdnanTasSol.csproj.CoreCompileInputs.cache
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\obj\Debug\netcoreapp2.2\MohammedAdnanTasSol.AssemblyInfoInputs.cache
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\obj\Debug\netcoreapp2.2\MohammedAdnanTasSol.AssemblyInfo.cs
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\bin\Debug\netcoreapp2.2\MohammedAdnanTasSol.deps.json
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\bin\Debug\netcoreapp2.2\MohammedAdnanTasSol.runtimeconfig.json
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\bin\Debug\netcoreapp2.2\MohammedAdnanTasSol.runtimeconfig.dev.json
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\bin\Debug\netcoreapp2.2\MohammedAdnanTasSol.dll
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\bin\Debug\netcoreapp2.2\MohammedAdnanTasSol.pdb
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\obj\Debug\netcoreapp2.2\MohammedAdnanTasSol.dll
+D:\Courses\Very Important\عمل مشاريع للناس\د. ايناس - كلية الرافدين وانجاز\C# Task\53\MohammedAdnanTasSol\obj\Debug\netcoreapp2.2\MohammedAdnanTasSol.pdb
