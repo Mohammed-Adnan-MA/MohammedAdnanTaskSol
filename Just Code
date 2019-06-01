@@ -10,8 +10,7 @@ namespace MohammedAdnanTasSol
             Console.ReadLine();
 		}
 	}
-}
-
+	
 class Solution
 	{
 		public static int solution(int[] A)
@@ -65,4 +64,5 @@ class Solution
         {
             Array.Sort(array);
         }
-  }
+ }
+}
